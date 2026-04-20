@@ -21,3 +21,8 @@ build/
 env/
 venv/
 ENV/
+*.png
+*.jpg
+*.identifier
+*.pdf
+*.docx
