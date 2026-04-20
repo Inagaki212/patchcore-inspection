@@ -17,6 +17,7 @@ build/
 *.ipynb_checkpoints/
 *.env
 *.venv
+*.txt
 env/
 venv/
 ENV/
