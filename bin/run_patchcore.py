@@ -13,6 +13,7 @@ import patchcore.metrics
 import patchcore.patchcore
 import patchcore.sampler
 import patchcore.utils
+import patchcore.2D-unet-main
 
 LOGGER = logging.getLogger(__name__)
 
