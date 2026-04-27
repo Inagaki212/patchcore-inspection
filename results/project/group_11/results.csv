@@ -1,0 +1,3 @@
+Row Names,instance_auroc,full_pixel_auroc,anomaly_pixel_auroc
+mvtec_hazelnut,1.0,0.9867629006872634,0.9791241038505272
+Mean,1.0,0.9867629006872634,0.9791241038505272
